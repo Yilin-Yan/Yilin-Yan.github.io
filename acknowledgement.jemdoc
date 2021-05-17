@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{acknowledgement.html}, showsource
+# jemdoc: menu{MENU}{acknowledgement.html}, nofooter
 = Acknowledgement
 
 I am grateful to the following people for helping me over the years:

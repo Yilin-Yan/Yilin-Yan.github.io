@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{statement.html}, showsource
+# jemdoc: menu{MENU}{statement.html}, nofooter
 = Statement
 
 I am interested in many fields in TCS and learning theory, especially their subtle connections and intersections.

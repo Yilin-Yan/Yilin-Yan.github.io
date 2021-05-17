@@ -1,8 +1,10 @@
-# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: menu{MENU}{index.html}, nofooter
 = Yilin Yan
 
 == About me
 ~~~
+My name is Yilin Yan (in simplified Chinese: 严祎霖).
+
 I am a third year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
 
 *I am now looking for an Internship \/ Master \/ Ph.D. position in theoretical computer science \/ machine learning theory starts in any time!*
@@ -33,7 +35,7 @@ Currently, I am working on:
 
 == Contact
 ~~~
-Contact: yilin.yan.tcs AT gmail DOT com
+Contact: yilin.yan.tcs[at]gmail[dot]com
 
 You can also find me on: [https://twitter.com/Yi_Lin_Yan/ twitter], [https://www.zhihu.com/people/elywells/ zhihu], [https://www.douban.com/people/180602287/ douban]
 ~~~

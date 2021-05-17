@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{resources.html}, showsource
+# jemdoc: menu{MENU}{resources.html}, nofooter
 = Resources
 
 Here are some useful resources that help me a lot in study and research in TCS.
