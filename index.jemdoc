@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Yilin Yan
+
+== About me
+~~~
+I am a third year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
+
+*I am now looking for an Internship \/ Master \/ Ph.D. position in theoretical computer science \/ machine learning theory starts in any time!* 😉
+
+Here is my [CV_Yilin_Yan.pdf CV].
+
+My Erdős number is $\infty$. 🤣
+~~~
+
+== Research interests
+~~~
+I am broadly interested in *theoretical computer science* and *machine learning theory*, with a focus on their intersections and designing efficient algorithms with theoretical guarantees. 
+~~~
+
+~~~
+In particular, I am interested in (see the [statement.html Research Statement] for more details):
+- Algorithms for large-scale data, namely, sublinear algorithms, including streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement), with techniques for lower bounds for these problems, specifically, communication complexity-derived lower bounds.
+- Algorithms under uncertainty, specifically, online decision making in the face of an ever-changing (and sometimes even adversarial) environment, including online learning and online optimization.
+- Behavior of algorithms in practice, which motivates Beyond worst-case analysis, e.g., Smoothed analysis, and new paradigms of algorithms design, e.g., Learning-Augmented Algorithms.
+- Algorithms design using tools from modern mathematics, specifically, probabilistic method, spectral graph theory, asymptotic convex geometry and geometry of polynomials.
+~~~
+
+~~~
+Currently, I am working on:
+- Smoothed Online Convex Optimization in Cloud Computing
+- Adversarially Robust Sampling and Streaming Algorithm
+~~~
+
+== Contact
+~~~
+Contact: yilin.yan.tcs@gmail.com
+
+You can also find me on: [https://twitter.com/Yi_Lin_Yan/ twitter], [https://www.zhihu.com/people/elywells/ zhihu], [https://www.douban.com/people/180602287/ douban]
+~~~
