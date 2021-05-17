@@ -16,12 +16,12 @@ My Erdős number is $\infty$. 🤣
 
 == Research interests
 ~~~
-{In general}
+{Generally}
 I am broadly interested in *theoretical computer science* and *machine learning theory*, with a focus on their intersections and designing efficient algorithms with theoretical guarantees. 
 ~~~
 
 ~~~
-{In particular}
+{Particularly}
 I am interested in (see the [statement.html Statement] for more details):
 - Algorithms for large-scale data, namely, *sublinear algorithms*, including streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement), with techniques for lower bounds for these problems, specifically, *communication complexity-derived lower bounds*.
 - Algorithms under uncertainty, specifically, online decision making in the face of an ever-changing (and sometimes even adversarial) environment, including *online learning* and *online optimization*.
