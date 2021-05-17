@@ -24,7 +24,7 @@ I am broadly interested in *theoretical computer science* and *machine learning 
 {In particular}
 I am interested in (see the [statement.html Statement] for more details):
 - Algorithms for large-scale data, namely, *sublinear algorithms*, including streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement), with techniques for lower bounds for these problems, specifically, *communication complexity-derived lower bounds*.
-- Algorithms under uncertainty, specifically, *online decision making* in the face of an ever-changing (and sometimes even adversarial) environment, including online learning and online optimization.
+- Algorithms under uncertainty, specifically, online decision making in the face of an ever-changing (and sometimes even adversarial) environment, including *online learning* and *online optimization*.
 - Behavior of algorithms in practice, which motivates *beyond worst-case analysis*, e.g., smoothed analysis, and new paradigms of algorithms design, e.g., *learning-augmented algorithms*.
 - Algorithms design using *tools from modern mathematics*, specifically, probabilistic method, spectral graph theory, asymptotic convex geometry and geometry of polynomials.
 ~~~
