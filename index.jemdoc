@@ -5,7 +5,7 @@
 ~~~
 I am a third year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
 
-*I am now looking for an Internship \/ Master \/ Ph.D. position in theoretical computer science \/ machine learning theory starts in any time!* 😉
+*I am now looking for an Internship \/ Master \/ Ph.D. position in theoretical computer science \/ machine learning theory starts in any time!*
 
 Here is my [CV_Yilin_Yan.pdf CV].
 
@@ -18,10 +18,10 @@ I am broadly interested in *theoretical computer science* and *machine learning 
 ~~~
 
 ~~~
-In particular, I am interested in (see the [statement.html Research Statement] for more details):
+In particular, I am interested in (see the [statement.html Statement] for more details):
 - Algorithms for large-scale data, namely, sublinear algorithms, including streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement), with techniques for lower bounds for these problems, specifically, communication complexity-derived lower bounds.
 - Algorithms under uncertainty, specifically, online decision making in the face of an ever-changing (and sometimes even adversarial) environment, including online learning and online optimization.
-- Behavior of algorithms in practice, which motivates Beyond worst-case analysis, e.g., Smoothed analysis, and new paradigms of algorithms design, e.g., Learning-Augmented Algorithms.
+- Behavior of algorithms in practice, which motivates beyond worst-case analysis, e.g., smoothed analysis, and new paradigms of algorithms design, e.g., learning-augmented algorithms.
 - Algorithms design using tools from modern mathematics, specifically, probabilistic method, spectral graph theory, asymptotic convex geometry and geometry of polynomials.
 ~~~
 
@@ -33,7 +33,7 @@ Currently, I am working on:
 
 == Contact
 ~~~
-Contact: yilin.yan.tcs@gmail.com
+Contact: yilin.yan.tcs AT gmail DOT com
 
 You can also find me on: [https://twitter.com/Yi_Lin_Yan/ twitter], [https://www.zhihu.com/people/elywells/ zhihu], [https://www.douban.com/people/180602287/ douban]
 ~~~
