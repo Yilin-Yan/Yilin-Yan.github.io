@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Tex Gyre Pagella, Palatino Linotype, FZPingXianYaSong-R-GBK, Georgia, serif;
+	font-family: 'myFont', Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -369,4 +369,33 @@ img {
 table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
+}
+
+
+@font-face{
+	font-family: 'myFont';
+	src: url('fonts/texgyrepagella-regular-webfont.woff') format('woff'); /* chrome、firefox */
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: 'myFont';
+	src: url('fonts/texgyrepagella-bold-webfont.woff') format('woff'); /* chrome、firefox */
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face{
+	font-family: 'myFont';
+	src: url('fonts/texgyrepagella-italic-webfont.woff') format('woff'); /* chrome、firefox */
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: 'myFont';
+	src: url('fonts/texgyrepagella-bolditalic-webfont.woff') format('woff'); /* chrome、firefox */
+	font-style: italic;
+	font-weight: bold;
 }
