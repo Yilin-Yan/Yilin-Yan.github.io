@@ -1,7 +1,18 @@
 # jemdoc: menu{MENU}{statement.html}, nofooter
 = Statement
 
+~~~
 I am interested in many fields in TCS and learning theory, especially their subtle connections and intersections.
 Here are my statement of research in next several years.
 
 This page is still in progress...
+~~~
+
+== Sublinear algorithms
+~~~
+What I am most interested in is sublinear algorithms on large-scale data and related statistics, which including:
+- Data streams, where you don't have enough space to store all the data being generated.
+- Property testing, where you don't have enough time to look at all the data.
+- Compressed sensing, where you don't have enough measurement capacity to observe all the data.
+- Related algorithmic lower bounds techniques, which may rather different than the algorithms themselves.
+~~~
