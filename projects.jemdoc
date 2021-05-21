@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter
+= Projects
+
+~~~
+This page describes what I have worked on currently and over the years. See [notes.html Notes] for more details of techniques.
+
+This page is still in progress...
+~~~
+
+~~~
+{Smoothed Online Convex Optimization in Cloud Resource Provisioning}
+~~~
+
+~~~
+{Adversarially Robust Sampling and Streaming Algorithm}
+~~~

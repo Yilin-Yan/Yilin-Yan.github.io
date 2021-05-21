@@ -7,9 +7,9 @@ My name is Yilin Yan (in Simplified Chinese: 严祎霖).
 
 I am a third year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
 
-*I am now looking for an Internship \/ Master \/ Ph.D. position in theoretical computer science \/ machine learning theory starts in any time!*
+*NEWS: I am now looking for an Internship \/ Master \/ Ph.D. position in theoretical computer science \/ machine learning theory starts in any time!*
 
-Here is my [CV_Yilin_Yan.pdf CV].
+Here is my [documents/CV_Yilin_Yan.pdf CV].
 
 My Erdős number is $\infty$. 🤣
 ~~~
@@ -22,16 +22,14 @@ I am broadly interested in *theoretical computer science* and *machine learning 
 
 ~~~
 {Particularly}
-I am interested in (see the [statement.html Statement] for more details):
-- Algorithms for large-scale data, namely, *sublinear algorithms*, including streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement), with techniques for lower bounds for these problems, specifically, *communication complexity-derived lower bounds*.
-- Algorithms under uncertainty, specifically, online decision making in the face of an ever-changing (and sometimes even adversarial) environment, including *online learning* and *online optimization*.
-- Behavior of algorithms in practice, which motivates *beyond worst-case analysis*, e.g., smoothed analysis, and new paradigms of algorithms design, e.g., *learning-augmented algorithms*.
-- Algorithms design using *tools from modern mathematics*, specifically, probabilistic method, spectral graph theory, asymptotic convex geometry and geometry of polynomials.
+I am most interested in (see the [statement.html Statement] for more details):
+- Sublinear algorithms and communication complexity-derived lower bounds.
+- Online learning, online optimization and adversarially robust algorithms.
 ~~~
 
 ~~~
 {Currently}
-I am working on:
+I am working on (see the [projects.html Projects] for more details):
 - Smoothed Online Convex Optimization in Cloud Resource Provisioning (2021.2–present)
 - Adversarially Robust Sampling and Streaming Algorithm (2021.5–present)
 ~~~
