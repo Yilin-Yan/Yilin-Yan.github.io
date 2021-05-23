@@ -2,7 +2,7 @@
 = Yilin Yan
 
 ~~~
-{}{img_left}{2.jpg}{}{200px}{200px}{}
+{}{img_left}{pictures/photo.jpg}{}{200px}{200px}{}
 My name is Yilin Yan (in Simplified Chinese: 严祎霖).
 
 I am a third year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
@@ -17,7 +17,7 @@ My Erdős number is $\infty$. 🤣
 I am now looking for an *Internship \/ Master \/ Ph.D.* position in *theoretical computer science* \/ *machine learning theory* starts in any time!
 ~~~
 
-== Research interests
+== Research Interests
 ~~~
 {Generally}
 I am broadly interested in *theoretical computer science* and *machine learning theory*, with a focus on their intersections and designing efficient algorithms with theoretical guarantees. 

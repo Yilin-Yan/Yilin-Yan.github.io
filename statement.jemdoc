@@ -7,7 +7,7 @@ Here are statement of my research over the years and in the future, and where my
 This page is still in progress...
 ~~~
 
-== Sublinear algorithms
+== Sublinear Algorithms
 ~~~
 What I am most interested in is sublinear algorithms on large-scale data and related statistics, which including:
 - Data streams, where you don't have enough space to store all the data being generated.
