@@ -364,7 +364,7 @@ tr.heading {
 }
 
 img {
-	border: none;
+	border-radius: 5px 5px 5px 5px;
 }
 
 table.imgtable, table.imgtable td {
