@@ -7,11 +7,7 @@ Here are statement of my research over the years and in the future, and where my
 This page is still in progress...
 ~~~
 
-== Sublinear Algorithms
+== Generally
 ~~~
-What I am most interested in is sublinear algorithms on large-scale data and related statistics, which including:
-- Data streams, where you don't have enough space to store all the data being generated.
-- Property testing, where you don't have enough time to look at all the data.
-- Compressed sensing, where you don't have enough measurement capacity to observe all the data.
-- Related algorithmic lower bounds techniques, which may rather different than the algorithms themselves.
+I am always attracted by *massive and uncertain objects*, which I am obsessed with designing algorithms to deal with. To be specific, what I am most interested in is *Algorithms Under Uncertainty* and *Algorithms for Massive Data*. The former mainly deals with online decision making problems in the face of an ever-changing or even adversarial environment, including online optimization and online learning; the latter is mainly termed sublinear algorithms, including streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement), with techniques for lower bounds for these problems, specifically, communication complexity-derived lower bounds.
 ~~~
