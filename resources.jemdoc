@@ -6,3 +6,23 @@ Here are some useful resources that help me a lot in study and research in TCS a
 
 This page is still in progress...
 ~~~
+
+== Optimization
+~~~
+- Sébastien Bubeck. [http://sbubeck.com/Bubeck15.pdf Convex Optimization: Algorithms and Complexity.]
+- Yin Tat Lee. [http://yintat.com/teaching/cse535-spring21 CSE 535: Theory of Optimization and Continuous Algorithms.] UW.
+- Elad Hazan. [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.]
+~~~
+
+== Sublinear Algorithms
+~~~
+- [https://sublinear.info/index.php?title=Resources Resources on Sublinear Algorithms.]
+- [http://people.csail.mit.edu/ronitt/sublinear.html Resources on sublinear time algorithms (surveys, other materials).]
+- Oded Goldreich. [http://www.wisdom.weizmann.ac.il/~oded/PDF/pt-intro.pdf Notes for the first lecture in a course on Property Testing.]
+- Eric Price. [https://www.cs.utexas.edu/~ecprice/courses/sublinear CS395T: Sublinear Algorithms.] UT Austin.
+- Paul Beame. [https://courses.cs.washington.edu/courses/cse522/14sp CSE 522: Sublinear (and Streaming) Algorithms.] UW.
+- Jelani Nelson. [https://www.sketchingbigdata.org Sketching Algorithms.] UCB.
+- Ronitt Rubinfeld. [https://people.csail.mit.edu/ronitt/COURSE/F20 6.889 Sublinear Time Algorithms.] MIT.
+~~~
+
+== 

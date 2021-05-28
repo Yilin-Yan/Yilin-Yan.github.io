@@ -14,13 +14,13 @@ My Erdős number is $\infty$. 🤣
 
 == NEW
 ~~~
-I am now looking for an *Internship \/ Master \/ Ph.D.* position in *theoretical computer science* \/ *machine learning theory* starts in any time!
+I am now looking for an *Internship \/ Master \/ Ph.D.* position in theoretical computer science \/ learning theory starts in any time!
 ~~~
 
 == Research Interests
 ~~~
 {Generally}
-I am broadly interested in *theoretical computer science*, *learning theory* and their subtle intersections, with a focus on designing efficient andelegant algorithms with theoretical guarantees, using tools from both TCS and modern
+I am broadly interested in theoretical computer science, learning theory and their subtle intersections, with a focus on designing efficient andelegant algorithms with theoretical guarantees, using tools from both TCS and modern
 mathematics.
 ~~~
 
@@ -33,9 +33,15 @@ I am most interested in (see the [/statement.html Statement] for more details):
 
 ~~~
 {Currently}
-I am working on (see the [/projects.html Projects] for more details):
-- Smoothed Online Convex Optimization in Cloud Resource Provisioning (2021.2–present)
-- Adversarially Robust Sampling and Streaming Algorithm (2021.6–present)
+I am now working on (see the [/projects.html Projects] for more details):
+- Smoothed Online Convex Optimization, Convex Bodies Chasing and Applications in Cloud Resource Provisioning (2021.2–present)
+~~~
+
+~~~
+{Future}
+There are many potential topics I am interested in and may work on in the future:
+- Adversarially Robust Streaming and Sampling Algorithms
+- Beyond Worst-Case Analysis and Learning-Augmented Algorithms
 ~~~
 
 == Contact

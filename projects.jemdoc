@@ -7,12 +7,7 @@ This page describes what I have worked on currently and over the years. See [/no
 This page is still in progress...
 ~~~
 
-== Smoothed Online Convex Optimization in Cloud Resource Provisioning
+== SOCO, CBC and Applications in Cloud Resource Provisioning
 ~~~
-
-~~~
-
-== Adversarially Robust Sampling and Streaming Algorithm
-~~~
-
+The inherent connections between Smoothed Online Convex Optimization (SOCO) and Convex Bodies Chasing (CBC) may inspire new design of algorithms.
 ~~~
