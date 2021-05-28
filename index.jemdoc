@@ -5,7 +5,7 @@
 {}{img_left}{pictures/photo.png}{}{135px}{189px}{}
 My name is Yilin Yan (in Simplified Chinese: 严祎霖).
 
-I am a third year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
+I am a third-year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
 
 Here is my [documents/CV_Yilin_Yan.pdf CV].
 
@@ -20,28 +20,21 @@ I am now looking for an *Internship \/ Master \/ Ph.D.* position in theoretical 
 == Research Interests
 ~~~
 {Generally}
-I am broadly interested in theoretical computer science, learning theory and their subtle intersections, with a focus on designing efficient andelegant algorithms with theoretical guarantees, using tools from both TCS and modern
+I am broadly interested in theoretical computer science, learning theory and their subtle intersections, with a focus on designing efficient and elegant algorithms with theoretical guarantees, using tools from both TCS and modern
 mathematics.
 ~~~
 
 ~~~
 {Particularly}
 I am most interested in (see the [/statement.html Statement] for more details):
-- Online optimization and online learning.
+- Online optimization and online learning and algorithmic convex geometry.
 - Sublinear algorithms and communication complexity-derived lower bounds.
 ~~~
 
 ~~~
 {Currently}
 I am now working on (see the [/projects.html Projects] for more details):
-- Smoothed Online Convex Optimization, Convex Bodies Chasing and Applications in Cloud Resource Provisioning (2021.2–present)
-~~~
-
-~~~
-{Future}
-There are many potential topics I am interested in and may work on in the future:
-- Adversarially Robust Streaming and Sampling Algorithms
-- Beyond Worst-Case Analysis and Learning-Augmented Algorithms
+- Smoothed Online Convex Optimization and Convex Bodies Chasing (2021.2–present)
 ~~~
 
 == Contact
