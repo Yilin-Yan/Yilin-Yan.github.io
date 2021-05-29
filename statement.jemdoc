@@ -9,9 +9,9 @@ This page is still in progress...
 
 == Generally
 ~~~
-During my very first research about online optimization, I become curious about online decision making under uncertainty: How to make decision if algorithms know little about future? Going beyond this restriction of algorithms, I am gradually interested in algorithms with more restrictions such as restricted computing resources: What if algorithms don't have enough time, space or measurement capacity to deal with numerous input?
+During my very first (also current) research about online optimization, I become curious about online decision making under uncertainty: How to make decision if algorithms know little about future? Going beyond this restriction of algorithms, I am gradually interested in algorithms with more restrictions such as restricted computing resources: What if algorithms don't have enough time, space or measurement capacity to deal with numerous input?
 
-Since that, I am always been attracted by uncertain and numerous objects, where I am obsessed with designing efficient and elegant algorithms with theoretical guarantees, from a complexity and geometric perspective.
+Since that, I have always been attracted by uncertain and numerous objects, where I am obsessed with designing efficient and elegant algorithms with theoretical guarantees, from a complexity and geometric perspective.
 
 My interest of algorithms under uncertainty is mainly in decision making in online setting, to be specific, decision making in the face of an ever-changing or even adversarial environment. My current research is online decision making from lens of both online algorithms and online optimization, using tools from convex geometry.
 
