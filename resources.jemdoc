@@ -9,25 +9,25 @@ This page is still in progress...
 
 == Online Decision Making and Geometry
 ~~~
-- Sébastien Bubeck. [http://sbubeck.com/Bubeck15.pdf Convex Optimization: Algorithms and Complexity.]
-- Elad Hazan. [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.]
-- Yin Tat Lee. [http://yintat.com/teaching/cse535-spring21 CSE 535: Theory of Optimization and Continuous Algorithms.] UW.
-- Sébastien Bubeck, James R. Lee. [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 Competitive analysis via convex optimization.] UW.
-- Santosh Vempala. [https://www.cc.gatech.edu/~vempala/acg/notes.pdf Algorithmic Convex Geometry.]
-- Alexandr Andoni, Ilya Razenshteyn. [https://ilyaraz.org/static/class Algorithms through Geometric Lens (COMS E6998-5).] Columbia.
+- [http://sbubeck.com/Bubeck15.pdf /Convex Optimization: Algorithms and Complexity/.] Sébastien Bubeck. 
+- [https://sites.google.com/view/intro-oco /Introduction to Online Convex Optimization/.] Elad Hazan. 
+- [http://yintat.com/teaching/cse535-spring21 /CSE 535: Theory of Optimization and Continuous Algorithms/.] Yin Tat Lee.
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 /CSE 599I: Competitive analysis via convex optimization/.] Sébastien Bubeck, James R. Lee.
+- [https://www.cc.gatech.edu/~vempala/acg/notes.pdf /Algorithmic Convex Geometry/.] Santosh Vempala. 
+- [https://ilyaraz.org/static/class /COMS E6998-5: Algorithms through Geometric Lens/.] Alexandr Andoni, Ilya Razenshteyn.
 ~~~
 
 == Sublinear Algorithms and Communication Complexity
 ~~~
-- [https://sublinear.info/index.php?title=Resources Resources on Sublinear Algorithms.]
-- [http://people.csail.mit.edu/ronitt/sublinear.html Resources on sublinear time algorithms (surveys, other materials).]
-- Oded Goldreich. [http://www.wisdom.weizmann.ac.il/~oded/PDF/pt-intro.pdf Notes for the first lecture in a course on Property Testing.]
-- Eric Price. [https://www.cs.utexas.edu/~ecprice/courses/sublinear CS395T: Sublinear Algorithms.] UT Austin.
-- Paul Beame. [https://courses.cs.washington.edu/courses/cse522/14sp CSE 522: Sublinear (and Streaming) Algorithms.] UW.
-- Michel de Rougemont. [https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-11-2 Randomness in Complexity.] MPRI.
-- Jelani Nelson. [https://www.sketchingbigdata.org Sketching Algorithms.] UCB.
-- David Woodruff. [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html 15-859: Algorithms for Big Data.] CMU.
-- Alexandr Andoni. [http://www.cs.columbia.edu/~andoni/algoS19/index.html Algorithms for Massive Data (COMS E6998-9).] Columbia.
-- Ronitt Rubinfeld. [https://people.csail.mit.edu/ronitt/COURSE/F20 6.889 Sublinear Time Algorithms.] MIT.
-- Tim Roughgarden. [http://timroughgarden.org/w15/l/w15.pdf Communication Complexity (for Algorithm Designers).]
+- [https://sublinear.info/index.php?title=Resources /Resources on Sublinear Algorithms/.]
+- [http://people.csail.mit.edu/ronitt/sublinear.html /Resources on sublinear time algorithms (surveys, other materials)/.]
+- [http://www.wisdom.weizmann.ac.il/~oded/PDF/pt-intro.pdf /Notes for the first lecture in a course on Property Testing/.] Oded Goldreich. 
+- [https://www.cs.utexas.edu/~ecprice/courses/sublinear /CS 395T: Sublinear Algorithms/.] Eric Price. 
+- [https://courses.cs.washington.edu/courses/cse522/14sp /CSE 522: Sublinear (and Streaming) Algorithms/.] Paul Beame. 
+- [https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-11-2 /Randomness in Complexity/.] Michel de Rougemont. 
+- [https://www.sketchingbigdata.org /Sketching Algorithms/.] Jelani Nelson. 
+- [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html /15-859: Algorithms for Big Data/.] David Woodruff. 
+- [http://www.cs.columbia.edu/~andoni/algoS19/index.html /COMS E6998-9: Algorithms for Massive Data/.] Alexandr Andoni. 
+- [https://people.csail.mit.edu/ronitt/COURSE/F20 /6.889 Sublinear Time Algorithms/.] Ronitt Rubinfeld. 
+- [http://timroughgarden.org/w15/l/w15.pdf /Communication Complexity (for Algorithm Designers)/.] Tim Roughgarden. 
 ~~~
