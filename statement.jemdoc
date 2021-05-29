@@ -9,9 +9,11 @@ This page is still in progress...
 
 == Generally
 ~~~
-I am always attracted by uncertain and massive objects, which I am obsessed with designing algorithms to deal with. To be specific, what I am most interested in is algorithms under uncertainty and algorithms for massive data. 
+During my very first research about online optimization, I become curious about online decision making under uncertainty: how to make decision if algorithms know little about future? Going beyond this restriction of algorithms, I am gradually interested in algorithms with more restrictions such as restricted computing resources: what if algorithms don't have enough time, space or measurement capacity to deal with numerous input?
 
-Algorithms under uncertainty mainly deals with online decision making problems in the face of an ever-changing or even adversarial environment, including online optimization and online learning, using tools from convex geometry.
+Since that, I am always been attracted by uncertain and numerous objects, where I am obsessed with designing efficient and elegant algorithms with theoretical guarantees, from a complexity and geometric perspective.
 
-Algorithms for massive data is mainly termed sublinear algorithms, including streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement), with techniques for lower bounds for these problems, specifically, communication complexity-derived lower bounds.
+My interest of algorithms under uncertainty is mainly in decision making in online setting, to be specific, decision making in the face of an ever-changing or even adversarial environment. My current research is online decision making from lens of both online algorithms and online optimization, using tools from convex geometry.
+
+My interest of algorithms with numerous input is mainly in sublinear algorithms, to be specific, streaming algorithms (sublinear space), property testing (sublinear time) and compressed sensing (sublinear measurement). I am also interested in developing matching lower bounds for these problems, which may rely on rather different techniques than the algorithms themselves, specifically, communication complexity. Where my research about this field lies is still under consideration.
 ~~~
