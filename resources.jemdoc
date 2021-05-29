@@ -9,25 +9,41 @@ This page is still in progress...
 
 == Online Decision Making and Geometry
 ~~~
-- [http://sbubeck.com/Bubeck15.pdf /Convex Optimization: Algorithms and Complexity/.] Sébastien Bubeck. 
-- [https://sites.google.com/view/intro-oco /Introduction to Online Convex Optimization/.] Elad Hazan. 
-- [http://yintat.com/teaching/cse535-spring21 /CSE 535: Theory of Optimization and Continuous Algorithms/.] Yin Tat Lee.
-- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 /CSE 599I: Competitive analysis via convex optimization/.] Sébastien Bubeck, James R. Lee.
-- [https://www.cc.gatech.edu/~vempala/acg/notes.pdf /Algorithmic Convex Geometry/.] Santosh Vempala. 
-- [https://ilyaraz.org/static/class /COMS E6998-5: Algorithms through Geometric Lens/.] Alexandr Andoni, Ilya Razenshteyn.
+- [http://sbubeck.com/Bubeck15.pdf Convex Optimization: Algorithms and Complexity.] Sébastien Bubeck. 
+- [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.] Elad Hazan. 
+- [http://yintat.com/teaching/cse535-spring21 CSE 535: Theory of Optimization and Continuous Algorithms.] Yin Tat Lee.
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 CSE 599I: Competitive analysis via convex optimization.] Sébastien Bubeck, James R. Lee.
+- [https://www.cc.gatech.edu/~vempala/acg/notes.pdf Algorithmic Convex Geometry.] Santosh Vempala. 
+- [https://ilyaraz.org/static/class COMS E6998-5: Algorithms through Geometric Lens.] Alexandr Andoni, Ilya Razenshteyn.
 ~~~
 
 == Sublinear Algorithms and Communication Complexity
 ~~~
-- [https://sublinear.info/index.php?title=Resources /Resources on Sublinear Algorithms/.]
-- [http://people.csail.mit.edu/ronitt/sublinear.html /Resources on sublinear time algorithms (surveys, other materials)/.]
-- [http://www.wisdom.weizmann.ac.il/~oded/PDF/pt-intro.pdf /Notes for the first lecture in a course on Property Testing/.] Oded Goldreich. 
-- [https://www.cs.utexas.edu/~ecprice/courses/sublinear /CS 395T: Sublinear Algorithms/.] Eric Price. 
-- [https://courses.cs.washington.edu/courses/cse522/14sp /CSE 522: Sublinear (and Streaming) Algorithms/.] Paul Beame. 
-- [https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-11-2 /Randomness in Complexity/.] Michel de Rougemont. 
-- [https://www.sketchingbigdata.org /Sketching Algorithms/.] Jelani Nelson. 
-- [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html /15-859: Algorithms for Big Data/.] David Woodruff. 
-- [http://www.cs.columbia.edu/~andoni/algoS19/index.html /COMS E6998-9: Algorithms for Massive Data/.] Alexandr Andoni. 
-- [https://people.csail.mit.edu/ronitt/COURSE/F20 /6.889 Sublinear Time Algorithms/.] Ronitt Rubinfeld. 
-- [http://timroughgarden.org/w15/l/w15.pdf /Communication Complexity (for Algorithm Designers)/.] Tim Roughgarden. 
+- [https://sublinear.info/index.php?title=Resources Resources on Sublinear Algorithms.]
+- [http://people.csail.mit.edu/ronitt/sublinear.html Resources on sublinear time algorithms (surveys, other materials).]
+- [http://www.wisdom.weizmann.ac.il/~oded/PDF/pt-intro.pdf Notes for the first lecture in a course on Property Testing.] Oded Goldreich. 
+- [https://www.cs.utexas.edu/~ecprice/courses/sublinear CS 395T: Sublinear Algorithms.] Eric Price. 
+- [https://courses.cs.washington.edu/courses/cse522/14sp CSE 522: Sublinear (and Streaming) Algorithms.] Paul Beame. 
+- [https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-11-2 Randomness in Complexity.] Michel de Rougemont. 
+- [https://www.sketchingbigdata.org Sketching Algorithms.] Jelani Nelson. 
+- [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html 15-859: Algorithms for Big Data.] David Woodruff. 
+- [http://www.cs.columbia.edu/~andoni/algoS19/index.html COMS E6998-9: Algorithms for Massive Data.] Alexandr Andoni. 
+- [https://people.csail.mit.edu/ronitt/COURSE/F20 6.889 Sublinear Time Algorithms.] Ronitt Rubinfeld. 
+- [http://timroughgarden.org/w15/l/w15.pdf Communication Complexity (for Algorithm Designers).] Tim Roughgarden. 
+~~~
+
+== Blogs and Comments
+~~~
+- [https://blogs.princeton.edu/imabandit I’m a Bandit]
+- [https://rigorandrelevance.wordpress.com Rigor + Relevance]
+- [http://mybiasedcoin.blogspot.com My Biased Coin]
+- [https://mittheory.wordpress.com Not so Great Ideas in Theoretical Computer Science]
+- [http://www.wisdom.weizmann.ac.il/~oded/my-choice.html My Choices]
+- [https://windowsontheory.org Windows On Theory]
+- [https://lucatrevisan.wordpress.com In Theory]
+- [https://www.scottaaronson.com/blog Shtetl-Optimized]
+- [https://gilkalai.wordpress.com Combinatorics and More]
+- [https://terrytao.wordpress.com What's New]
+- [https://gowers.wordpress.com Gowers's Weblog]
+
 ~~~
