@@ -11,31 +11,31 @@ This page is still in progress...
 ~~~
 - [http://sbubeck.com/Bubeck15.pdf Convex Optimization: Algorithms and Complexity.] by Sébastien Bubeck. 
 - [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.] by Elad Hazan. 
-- [http://yintat.com/teaching/cse535-spring21 CSE 535: Theory of Optimization and Continuous Algorithms.] by Yin Tat Lee.
-- [http://yintat.com/teaching/cse599-winter18 CSE 599: Interplay between Convex Optimization and Geometry.] by Yin Tat Lee.
-- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 CSE 599I: Competitive analysis via convex optimization.] by Sébastien Bubeck, James R. Lee.
+- [http://yintat.com/teaching/cse535-spring21 Theory of Optimization and Continuous Algorithms.] by Yin Tat Lee.
+- [http://yintat.com/teaching/cse599-winter18 Interplay between Convex Optimization and Geometry.] by Yin Tat Lee.
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 Competitive analysis via convex optimization.] by Sébastien Bubeck, James R. Lee.
 - [https://convex-optimization.github.io Algorithms for Convex Optimization.] by Nisheeth Vishnoi.
 - [https://web.stanford.edu/~sidford/courses/20fa_opt_theory/fa20_opt_theory.html Introduction to Optimization Theory.] by Aaron Sidford.
 - [https://www.cc.gatech.edu/~vempala/acg/notes.pdf Algorithmic Convex Geometry.] by Santosh Vempala.
 - [http://library.msri.org/books/Book31/files/ball.pdf An Elementary Introduction to Modern Convex Geometry.] by Keith Ball.
-- [https://ilyaraz.org/static/class COMS E6998-5: Algorithms through Geometric Lens.] by Alexandr Andoni, Ilya Razenshteyn.
+- [https://ilyaraz.org/static/class Algorithms through Geometric Lens.] by Alexandr Andoni, Ilya Razenshteyn.
 ~~~
 
 == Sublinear Algorithms, Communication Complexity and Boolean functions
 ~~~
 - [https://sublinear.info/index.php?title=Resources Resources on Sublinear Algorithms.]
-- [http://www.cs.columbia.edu/~rocco/Teaching/S14 COMS 6998: Sublinear Time Algorithms in Learning and Property Testing.] by Rocco Servedio.
-- [http://www.cs.columbia.edu/~rocco/Teaching/S12 COMS E6253: Advanced Topics in Computational Learning Theory.] by Rocco Servedio.
-- [https://people.csail.mit.edu/ronitt/COURSE/F20 6.889 Sublinear Time Algorithms.] by Ronitt Rubinfeld.
+- [http://www.cs.columbia.edu/~rocco/Teaching/S14 Sublinear Time Algorithms in Learning and Property Testing.] by Rocco Servedio.
+- [http://www.cs.columbia.edu/~rocco/Teaching/S12 Advanced Topics in Computational Learning Theory.] by Rocco Servedio.
+- [https://people.csail.mit.edu/ronitt/COURSE/F20 Sublinear Time Algorithms.] by Ronitt Rubinfeld.
 - [http://www.wisdom.weizmann.ac.il/~oded/pt-intro.html Introduction to Property Testing.] by Oded Goldreich.
-- [https://www.cs.utexas.edu/~ecprice/courses/sublinear CS 395T: Sublinear Algorithms.] by Eric Price. 
-- [https://courses.cs.washington.edu/courses/cse522/14sp CSE 522: Sublinear (and Streaming) Algorithms.] by Paul Beame.
+- [https://www.cs.utexas.edu/~ecprice/courses/sublinear Sublinear Algorithms.] by Eric Price. 
+- [https://courses.cs.washington.edu/courses/cse522/14sp Sublinear (and Streaming) Algorithms.] by Paul Beame.
 - [https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-11-2 Randomness in Complexity.] by Michel de Rougemont.
 - [https://www.sketchingbigdata.org Sketching Algorithms.] by Jelani Nelson.
-- [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html 15-859: Algorithms for Big Data.] by David Woodruff.
-- [http://www.cs.columbia.edu/~andoni/algoS19/index.html COMS E6998-9: Algorithms for Massive Data.] by Alexandr Andoni. 
+- [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html Algorithms for Big Data.] by David Woodruff.
+- [http://www.cs.columbia.edu/~andoni/algoS19/index.html Algorithms for Massive Data.] by Alexandr Andoni. 
 - [http://timroughgarden.org/w15/l/w15.pdf Communication Complexity (for Algorithm Designers).] by Tim Roughgarden.
-- [http://www.cs.columbia.edu/~rocco/Teaching/S17/6998 COMS 6998: Advanced Topics in Computational Complexity.] by Rocco Servedio.
+- [http://www.cs.columbia.edu/~rocco/Teaching/S17/6998 Advanced Topics in Computational Complexity.] by Rocco Servedio.
 ~~~
 
 == Blogs and Comments
