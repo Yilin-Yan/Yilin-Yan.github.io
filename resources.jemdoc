@@ -7,7 +7,7 @@ Here are some useful resources that used to help me a lot or that I plan to stud
 This page is still in progress...
 ~~~
 
-== Online Decision Making and Convex Geometry
+== Online Decision Making, Optimization and Convex Geometry
 ~~~
 - [http://sbubeck.com/Bubeck15.pdf Convex Optimization: Algorithms and Complexity.] by Sébastien Bubeck. 
 - [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.] by Elad Hazan. 
@@ -21,7 +21,7 @@ This page is still in progress...
 - [https://ilyaraz.org/static/class Algorithms through Geometric Lens.] by Alexandr Andoni, Ilya Razenshteyn.
 ~~~
 
-== Sublinear Algorithms, Communication Complexity and Boolean functions
+== Sublinear Algorithms, Communication Complexity and Boolean Functions
 ~~~
 - [https://sublinear.info/index.php?title=Resources Resources on Sublinear Algorithms.]
 - [http://www.cs.columbia.edu/~rocco/Teaching/S14 Sublinear Time Algorithms in Learning and Property Testing.] by Rocco Servedio.
