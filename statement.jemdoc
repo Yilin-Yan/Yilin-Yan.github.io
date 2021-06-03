@@ -9,7 +9,7 @@ This page is still in progress...
 
 == Generally
 ~~~
-During my very first (also current) research about online optimization, on one hand, I become curious about online decision making under uncertainty: How to make decision if algorithms have little information about input? Going beyond this restriction on algorithms, I am gradually interested in algorithms subject to various resource or information constraints: What if algorithms don't have enough time, space or measurement capacity to deal with massive input? On the other hand, I become interested in geometric structure in algorithms: How to reduce an original problem to a generic geometric structure and deal with it through lens of geometry?
+During my very first (also current) research about online optimization, on one hand, I become interested in geometric structure in algorithms: How to reduce an original problem to a generic geometric structure and deal with it through lens of geometry? On the other hand, I become curious about online decision making under uncertainty: How to make decision if algorithms have little information about input? Going beyond this restriction on algorithms, I am gradually interested in algorithms subject to various resource or information constraints: What if algorithms don't have enough time, space or measurement capacity to deal with massive input?
 
 Since that, I have always been attracted by objects with three properties: uncertainty, large scale and geometric structure, where I am obsessed with designing efficient and elegant algorithms with theoretical guarantees, using tools from both TCS and modern mathematics.
 
