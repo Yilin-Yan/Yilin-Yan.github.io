@@ -25,7 +25,6 @@ This page is still in progress...
 ~~~
 - [https://sublinear.info/index.php?title=Resources Resources on Sublinear Algorithms.]
 - [http://www.cs.columbia.edu/~rocco/Teaching/S14 Sublinear Time Algorithms in Learning and Property Testing.] by Rocco Servedio.
-- [http://www.cs.columbia.edu/~rocco/Teaching/S12 Advanced Topics in Computational Learning Theory.] by Rocco Servedio.
 - [https://people.csail.mit.edu/ronitt/COURSE/F20 Sublinear Time Algorithms.] by Ronitt Rubinfeld.
 - [http://www.wisdom.weizmann.ac.il/~oded/pt-intro.html Introduction to Property Testing.] by Oded Goldreich.
 - [https://www.cs.utexas.edu/~ecprice/courses/sublinear Sublinear Algorithms.] by Eric Price. 
@@ -33,8 +32,10 @@ This page is still in progress...
 - [https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-11-2 Randomness in Complexity.] by Michel de Rougemont.
 - [https://www.sketchingbigdata.org Sketching Algorithms.] by Jelani Nelson.
 - [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html Algorithms for Big Data.] by David Woodruff.
-- [http://www.cs.columbia.edu/~andoni/algoS19/index.html Algorithms for Massive Data.] by Alexandr Andoni. 
+- [http://www.cs.columbia.edu/~andoni/algoS19/index.html Algorithms for Massive Data.] by Alexandr Andoni.
+- [http://chihaozhang.com/teaching/BDA2020fall/index.html Algorithms for Big Data.] by Chihao Zhang.
 - [http://timroughgarden.org/w15/l/w15.pdf Communication Complexity (for Algorithm Designers).] by Tim Roughgarden.
+- [http://www.cs.columbia.edu/~rocco/Teaching/S12 Advanced Topics in Computational Learning Theory.] by Rocco Servedio.
 - [http://www.cs.columbia.edu/~rocco/Teaching/S17/6998 Advanced Topics in Computational Complexity.] by Rocco Servedio.
 ~~~
 
