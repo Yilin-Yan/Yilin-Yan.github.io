@@ -7,7 +7,7 @@ Here are open problems arise from my research and the topics that I am most inte
 This page is still in progress...
 ~~~
 
-== Breaking Through the $\Omega(\sqrt{d})$ Barrier of SOCO
+== Breaking Through the Lower Bound of SOCO
 ~~~
 Following from connections to CBC, it has been proved that for general convex cost functions and $l_2$ switching costs, any online algorithm for SOCO has competitive ratio lower bounded by $\Omega(\sqrt{d})$, which means that it is not possible to design a constant competitive algorithm for high-dimensional SOCO without making restrictions on the cost functions considered. Given the importance of high-dimensional SOCO problems in practical applications, this lower bound motivated the exploration of beyond worst-case analysis for SOCO as a way of breaking through the barrier, to achieve a dimension-free, constant competitive ratio. What we ask is: Is it possible to achieve a dimension-free, constant competitive ratio for high-dimensional SOCO problems under a unified analytical framework combining structural assumptions and predictions?
 ~~~
