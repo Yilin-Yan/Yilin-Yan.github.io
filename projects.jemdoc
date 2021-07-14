@@ -7,7 +7,7 @@ This page describes what I have worked on currently and over the years. See [/no
 This page is still in progress...
 ~~~
 
-== Chasing Convex Bodies in Smoothed Online Convex Optimization
+== When Chasing Convex Bodies Meets Smoothed Online Convex Optimization
 ~~~
-There is a long history of research respectively on Smoothed Online Convex Optimization (SOCO) and Convex Bodies Chasing (CBC). In recent years, connections between SOCO and CBC have been found, and I am striving to figure out how the inherent connections between SOCO and CBC inspire new design of efficient and elegant algorithms with theoretical guarantees, under views from both online algorithms and online optimization. I am also studying widespread applications in cloud resources provisioning, where SOCO was originally proposed. What I am most interested in this field is the open problem of [/open.html Breaking Through the Barrier of High-Dimensional SOCO]. Here is a [documents/survey.pdf short note of SOCO] (in progress with deeper research) written by me.
+There is a long history of research respectively on Convex Bodies Chasing (CBC) and Smoothed Online Convex Optimization (SOCO). In recent years, connections between SOCO and CBC have been found, and I am striving to figure out how the inherent connections between SOCO and CBC inspire new design of efficient and elegant algorithms with theoretical guarantees, under views from both online algorithms and online optimization. I am also studying widespread applications such as cloud resources provisioning, where SOCO was originally proposed.
 ~~~

@@ -7,38 +7,41 @@ My name is Yilin Yan (in Simplified Chinese: 严祎霖).
 
 I am a third-year undergradute student in Honors Program in Science (Computer Science Track), Jilin University, China.
 
-Here is my CV: [documents/CV_EN.pdf EN], [documents/CV_CN.pdf CN].
-
 My Erdős number is $\infty$. 🤣
 ~~~
 
 == NEW
 ~~~
-I am now looking for an *Internship \/ Master \/ Ph.D.* position in theoretical computer science \/ learning theory starts in any time!
+*I am looking for a Ph.D. position in theoretical computer science starting in 2022\/2023!*
 ~~~
 
 == Research Interests
 ~~~
 {Generally}
-I am broadly interested in theoretical computer science, learning theory and their subtle intersections, with a focus on designing efficient and elegant algorithms with theoretical guarantees, using tools from both TCS and modern mathematics.
+I am broadly interested in theoretical computer science and its applications in real world, with a focus on designing efficient and elegant algorithms with theoretical guarantees, using various tools from both theoretical computer science and modern mathematics.
 ~~~
 
 ~~~
 {Particularly}
-I am most interested in (see the [/statement.html Statement] for more details):
-- Online decision making and algorithmic convex geometry.
-- Sublinear algorithms and communication complexity-derived lower bounds.
+I am now interested in geometric algorithms with restricted resources (see the [/statement.html Statement] for more details), especially in online decision making and algorithmic convex geometry.
 ~~~
 
 ~~~
 {Currently}
 I am now working on (see the [/projects.html Projects] for more details):
-- Chasing Convex Bodies in Smoothed Online Convex Optimization (2021.2–present)
+- When Chasing Convex Bodies Meets Smoothed Online Convex Optimization (2021.5–present)
+~~~
+
+~~~
+{Tentatively}
+I am planning to choose one from below as next research topic:
+- Streaming algorithms and communication complexity-derived lower bounds
+- Operator scaling and spectral method
 ~~~
 
 == Contact
 ~~~
 Contact: yilin.yan.tcs \[at\] gmail \[dot\] com
 
-You can also find me on: [https://twitter.com/Yi_Lin_Yan/ twitter], [https://www.zhihu.com/people/elywells/ zhihu], [https://www.douban.com/people/180602287/ douban], [https://space.bilibili.com/96065481/ bilibili]
+You can also find me on: [https://twitter.com/Yi_Lin_Yan/ twitter], [https://www.zhihu.com/people/elywells/ zhihu], [https://www.douban.com/people/180602287/ douban]
 ~~~
