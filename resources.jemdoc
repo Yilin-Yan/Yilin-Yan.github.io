@@ -7,13 +7,14 @@ Here are some useful resources that used to help me a lot or that I plan to stud
 This page is still in progress...
 ~~~
 
-== Optimization and Geometry
+== Online Optimization and Geometry
 ~~~
+- [http://yuanz.web.illinois.edu/teaching/IE498fa19 Online Learning and Decision Making.] by Yuan Zhou.
+- [https://www.win.tue.nl/~nikhil/AU16/index.html Algorithms and Uncertainty.] by Nikhil Bansal.
 - [http://sbubeck.com/Bubeck15.pdf Convex Optimization: Algorithms and Complexity.] by Sébastien Bubeck. 
 - [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.] by Elad Hazan. 
 - [http://yintat.com/teaching/cse535-spring21 Theory of Optimization and Continuous Algorithms.] by Yin Tat Lee.
 - [http://yintat.com/teaching/cse599-winter18 Interplay between Convex Optimization and Geometry.] by Yin Tat Lee.
-- [https://www.win.tue.nl/~nikhil/AU16/index.html Algorithms and Uncertainty.] by Nikhil Bansal.
 - [https://convex-optimization.github.io Algorithms for Convex Optimization.] by Nisheeth Vishnoi.
 - [https://web.stanford.edu/~sidford/courses/20fa_opt_theory/fa20_opt_theory.html Introduction to Optimization Theory.] by Aaron Sidford.
 - [https://www.cc.gatech.edu/~vempala/acg/notes.pdf Algorithmic Convex Geometry.] by Santosh Vempala.
