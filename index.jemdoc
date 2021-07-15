@@ -18,12 +18,12 @@ My Erdős number is $\infty$. 🤣
 == Research Interests
 ~~~
 {Generally}
-I am broadly interested in theoretical computer science and its applications in real world, with a focus on designing efficient and elegant algorithms with theoretical guarantees, using various tools from both theoretical computer science and modern mathematics.
+I am broadly interested in theoretical computer science and its widespread applications in real world, with a focus on designing efficient and elegant algorithms with theoretical guarantees, using various tools from both theoretical computer science and modern mathematics.
 ~~~
 
 ~~~
 {Particularly}
-I am now interested in geometric algorithms with restricted resources (see the [/statement.html Statement] for more details), especially in online decision making and algorithmic convex geometry.
+I am now interested in geometric algorithms with limited resources (see the [/statement.html Statement] for more details), especially in online decision making.
 ~~~
 
 ~~~
@@ -35,9 +35,9 @@ I am now working on (see the [/projects.html Projects] for more details):
 ~~~
 {Tentatively}
 I am planning to choose one from below as next research topic:
-- Sublinear algorithms and communication complexity-derived lower bounds
 - Operator scaling and spectral method
 - Semidefinite programming, sums of squares and convex algebraic geometry
+- Sublinear algorithms and communication complexity-derived lower bounds
 ~~~
 
 == Contact
