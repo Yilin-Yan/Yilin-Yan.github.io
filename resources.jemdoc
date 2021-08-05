@@ -9,10 +9,10 @@ This page is still in progress...
 
 == Online Algorithms and Online Learning
 ~~~
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 Competitive Analysis via Convex Optimization.] by Sébastien Bubeck, James R. Lee.
 - [http://yuanz.web.illinois.edu/teaching/IE498fa19 Online Learning and Decision Making.] by Yuan Zhou.
 - [https://www.win.tue.nl/~nikhil/AU16/index.html Algorithms and Uncertainty.] by Nikhil Bansal.
 - [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.] by Elad Hazan.
-- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 Competitive Analysis via Convex Optimization.] by Sébastien Bubeck, James R. Lee.
 ~~~
 
 == Optimization and Geometry
@@ -24,12 +24,17 @@ This page is still in progress...
 - [https://web.stanford.edu/~sidford/courses/20fa_opt_theory/fa20_opt_theory.html Introduction to Optimization Theory.] by Aaron Sidford.
 - [https://www.cc.gatech.edu/~vempala/acg/notes.pdf Algorithmic Convex Geometry.] by Santosh Vempala.
 - [http://library.msri.org/books/Book31/files/ball.pdf An Elementary Introduction to Modern Convex Geometry.] by Keith Ball.
+- [http://sites.math.washington.edu/~vinzant/teaching/591 Real Algebraic Geometry and Convex Optimization.] by Cynthia Vinzant.
+- [https://www.mit.edu/~parrilo/sdocag/index.html Semidefinite Optimization and Convex Algebraic Geometry.] by Pablo A. Parrilo.
 ~~~
 
 == Algorithmic Toolkit
 ~~~
 - [https://homes.cs.washington.edu/~jrl/teaching/cse599swi16 Entropy optimality.] by James R. Lee.
-- [https://homes.cs.washington.edu/~jrl/teaching/cse599Isp21 The Art and Science of Positive Definite Matrices.] by James R. Lee. 
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599Isp21 The Art and Science of Positive Definite Matrices.] by James R. Lee.
+- [https://people.ece.cornell.edu/acharya/teaching/ece6980f17 Algorithmic & Information Theoretic Methods in Data Science.] by Jayadev Acharya.
+- [https://ocw.mit.edu/courses/mathematics/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/lecture-notes Topics in Theoretical Computer Science: An Algorithmist's Toolkit.] by Jonathan Kelner.
+- [https://people.eecs.berkeley.edu/~prasad/spring2021.html Combinatorial Algorithms and Data Structures.] by Prasad Raghavendra.
 ~~~
 
 == Sublinear Algorithms
@@ -49,6 +54,8 @@ This page is still in progress...
 == Computational Complexity and Lower Bound
 ~~~
 - [http://timroughgarden.org/w15/l/w15.pdf Communication Complexity (for Algorithm Designers).] by Tim Roughgarden.
+- [https://cs.uwaterloo.ca/~r5olivei/courses/2021-winter-cs860 Advanced Topics in Algebraic Complexity, Invariant Theory and Optimization.] by Rafael Oliveira.
+- [http://web.stanford.edu/class/cs354 Topics in Intractability: Unfulfilled Algorithmic Fantasies.] by Aviad Rubinstein.
 ~~~
 
 == Blogs and Comments
@@ -56,6 +63,7 @@ This page is still in progress...
 - [https://blogs.princeton.edu/imabandit I’m a Bandit.] by Sébastien Bubeck.
 - [https://windowsontheory.org Windows On Theory.] by Boaz Barak.
 - [https://www.scottaaronson.com/blog Shtetl-Optimized.] by Scott Aaronson.
+- [https://www.offconvex.org Off the Convex Path.] by Nisheeth Vishnoi.
 - [http://mybiasedcoin.blogspot.com My Biased Coin.] by Michael Mitzenmacher.
 - [http://www.wisdom.weizmann.ac.il/~oded/my-choice.html My Choices.] by Oded Goldreich.
 - [https://lucatrevisan.wordpress.com In Theory.] by Luca Trevisan.
