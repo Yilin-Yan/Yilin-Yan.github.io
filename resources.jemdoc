@@ -7,24 +7,33 @@ Here are some useful resources that used to help me a lot or that I plan to stud
 This page is still in progress...
 ~~~
 
-== Optimization and Geometry
+== Online Algorithms and Online Learning
 ~~~
 - [http://yuanz.web.illinois.edu/teaching/IE498fa19 Online Learning and Decision Making.] by Yuan Zhou.
 - [https://www.win.tue.nl/~nikhil/AU16/index.html Algorithms and Uncertainty.] by Nikhil Bansal.
+- [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.] by Elad Hazan.
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599I-spring-2018 Competitive Analysis via Convex Optimization.] by Sébastien Bubeck, James R. Lee.
+~~~
+
+== Optimization and Geometry
+~~~
 - [http://sbubeck.com/Bubeck15.pdf Convex Optimization: Algorithms and Complexity.] by Sébastien Bubeck. 
-- [https://sites.google.com/view/intro-oco Introduction to Online Convex Optimization.] by Elad Hazan. 
 - [http://yintat.com/teaching/cse535-spring21 Theory of Optimization and Continuous Algorithms.] by Yin Tat Lee.
 - [http://yintat.com/teaching/cse599-winter18 Interplay between Convex Optimization and Geometry.] by Yin Tat Lee.
 - [https://convex-optimization.github.io Algorithms for Convex Optimization.] by Nisheeth Vishnoi.
 - [https://web.stanford.edu/~sidford/courses/20fa_opt_theory/fa20_opt_theory.html Introduction to Optimization Theory.] by Aaron Sidford.
 - [https://www.cc.gatech.edu/~vempala/acg/notes.pdf Algorithmic Convex Geometry.] by Santosh Vempala.
 - [http://library.msri.org/books/Book31/files/ball.pdf An Elementary Introduction to Modern Convex Geometry.] by Keith Ball.
-- [https://ilyaraz.org/static/class Algorithms through Geometric Lens.] by Alexandr Andoni, Ilya Razenshteyn.
 ~~~
 
-== Sublinear Algorithms and Lower Bound
+== Algorithmic Toolkit
 ~~~
-- [https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/summer21/geometric-algorithms-with-limited-resources Geometric Algorithms with Limited Resources.] by Themistoklis Gouleakis, Sándor Kisfaludi-Bak.
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599swi16 Entropy optimality.] by James R. Lee.
+- [https://homes.cs.washington.edu/~jrl/teaching/cse599Isp21 The Art and Science of Positive Definite Matrices.] by James R. Lee. 
+~~~
+
+== Sublinear Algorithms
+~~~
 - [https://sublinear.info/index.php?title=Resources Resources on Sublinear Algorithms.]
 - [http://www.cs.columbia.edu/~rocco/Teaching/S14 Sublinear Time Algorithms in Learning and Property Testing.] by Rocco Servedio.
 - [https://people.csail.mit.edu/ronitt/COURSE/F20 Sublinear Time Algorithms.] by Ronitt Rubinfeld.
@@ -35,17 +44,21 @@ This page is still in progress...
 - [http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html Algorithms for Big Data.] by David Woodruff.
 - [http://www.cs.columbia.edu/~andoni/algoS19/index.html Algorithms for Massive Data.] by Alexandr Andoni.
 - [http://chihaozhang.com/teaching/BDA2020fall/index.html Algorithms for Big Data.] by Chihao Zhang.
+~~~
+
+== Computational Complexity and Lower Bound
+~~~
 - [http://timroughgarden.org/w15/l/w15.pdf Communication Complexity (for Algorithm Designers).] by Tim Roughgarden.
 ~~~
 
 == Blogs and Comments
 ~~~
 - [https://blogs.princeton.edu/imabandit I’m a Bandit.] by Sébastien Bubeck.
+- [https://windowsontheory.org Windows On Theory.] by Boaz Barak.
+- [https://www.scottaaronson.com/blog Shtetl-Optimized.] by Scott Aaronson.
 - [http://mybiasedcoin.blogspot.com My Biased Coin.] by Michael Mitzenmacher.
 - [http://www.wisdom.weizmann.ac.il/~oded/my-choice.html My Choices.] by Oded Goldreich.
-- [https://windowsontheory.org Windows On Theory.] by Boaz Barak.
 - [https://lucatrevisan.wordpress.com In Theory.] by Luca Trevisan.
-- [https://www.scottaaronson.com/blog Shtetl-Optimized.] by Scott Aaronson.
 - [http://blog.geomblog.org/ The Geomblog.] by Suresh Venkatasubramanian.
 - [https://gilkalai.wordpress.com Combinatorics and More.] by Gil Kalai.
 - [https://terrytao.wordpress.com What's New.] by Terence Tao.
