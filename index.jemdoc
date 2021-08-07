@@ -23,7 +23,7 @@ I am broadly interested in theoretical computer science and its widespread appli
 
 ~~~
 {Particularly}
-I am now interested in geometric algorithms with limited resources (see the [/statement.html Statement] for more details), especially in online decision making.
+I am most interested in optimization and geometry under various settings (see the [/statement.html Statement] for more details). Most recently, I am working on online decision making.
 ~~~
 
 ~~~
@@ -35,8 +35,9 @@ I am now working on (see the [/projects.html Projects] for more details):
 ~~~
 {Tentatively}
 I am planning to choose one from below as next research topic:
-- Adversarially Robust Streaming, Sketching, and Sampling Algorithms
 - Computational/Statistical Tradeoffs of Sparse PCA and Planted Clique Problem
+- Geodesic Convex Optimization and Operator Scaling
+- Adversarially Robust Streaming, Sketching, and Sampling Algorithms
 ~~~
 
 == Contact
